@@ -1,1 +1,2 @@
 # odin-recipes
+My name is Kienson Bui and today is January 11, 2026. I will be using everything I learned about HTML so far and build a basic website with recipes, consisting of a main index page with a few links to recipes. Later on, we will be adding CSS to make the website look pretty
